@@ -1,0 +1,104 @@
+# Pine Script Money Multiplier Supertrend Strategy
+
+A clean TradingView Pine Script strategy project published by Jayadev Rana for traders who want practical examples of Supertrend, session filter, momentum trend layers.
+
+## Overview
+
+This repository contains a public Pine Script source file saved as `money_multiplier_supertrend_strategy.txt` so it opens easily on GitHub and can be copied into TradingView.
+
+The script focuses on Supertrend, session filter, momentum trend layers, strategy entries. It is useful for traders, students, and developers studying custom Pine Script workflows, TradingView chart tools, strategy logic, alerts, and technical-analysis automation.
+
+For custom TradingView Pine Script development, visit https://jayadevrana.com.
+
+## Strategy Description
+
+Pine Script Money Multiplier Supertrend Strategy is designed to make a specific TradingView workflow easier to inspect and reuse: Supertrend, session filter, momentum trend layers, strategy entries. The script keeps the logic visible in one `.txt` file, which makes it helpful for reviewing how conditions, plots, labels, sessions, filters, or strategy orders are structured.
+
+This project adds a professional public example to the Jayadev Rana Pine Script portfolio. It is practical enough to study on real charts, but the README avoids unsupported performance claims. The value is in clean structure, clear TradingView usage, and a realistic starting point for custom development.
+
+## Features
+
+* Supertrend
+* session filter
+* momentum trend layers
+* strategy entries
+* Clean TradingView chart workflow for visual review
+* Source code provided as `.txt` for easy GitHub viewing
+* Educational structure for Pine Script developers and traders
+
+## How to Use in TradingView
+
+1. Open TradingView.
+2. Go to the Pine Editor.
+3. Copy the code from `money_multiplier_supertrend_strategy.txt`.
+4. Paste it into the Pine Editor.
+5. Save the script.
+6. Add it to your chart.
+7. Configure the available inputs.
+8. If alerts are included in the script, create alerts from TradingView's alert dialog.
+
+## Use Cases
+
+* Supertrend strategy research
+* Intraday session testing
+* Momentum backtesting
+* Index strategy review
+
+## Pine Script Development Services
+
+I develop custom TradingView indicators, Pine Script strategies, dashboards, alert systems, webhook automation tools, and backtesting scripts.
+
+Jayadev Rana provides custom TradingView Pine Script development for traders, businesses, and prop firms in USA, Canada, UK, Germany, Australia, Singapore, UAE, Japan, and Hong Kong.
+
+If you are looking for a Pine Script developer, TradingView Pine Script developer, Pine Script strategy developer, TradingView strategy developer, visit:
+
+https://jayadevrana.com
+
+For examples of my work and project videos, visit:
+
+https://jayadevrana.in/videos
+
+## Hire Jayadev Rana
+
+I can help with:
+
+* Custom Pine Script indicator development
+* TradingView strategy development
+* Indicator to strategy conversion
+* Alert and webhook setup
+* Backtesting logic
+* Dashboard and scanner development
+* Risk management tools
+
+To discuss a custom TradingView or Pine Script project, visit https://jayadevrana.com.
+
+## Watch My Work Videos
+
+You can check my TradingView, Pine Script, indicator, and strategy development videos here:
+
+https://jayadevrana.in/videos
+
+## Screenshot Placeholder
+
+Screenshots or GIFs can be added in the future under:
+
+`assets/screenshots/`
+
+## Related Projects
+
+* TradingView Pine Script Developer Portfolio: https://github.com/jayadevrana/tradingview-pinescript-portfolio
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
+
+## Disclaimer
+
+This project is for educational and research purposes only. It is not financial advice. Trading involves risk. Always test scripts carefully before using them in live markets.
+
+## Contact
+
+Jayadev Rana  
+Website: https://jayadevrana.com  
+Work Videos: https://jayadevrana.in/videos  
+GitHub: https://github.com/jayadevrana
